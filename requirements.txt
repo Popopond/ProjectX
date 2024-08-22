@@ -1,0 +1,7 @@
+Flask
+torch
+torchvision
+tensorflow
+numpy
+requests
+pillow
